@@ -6,4 +6,4 @@
 
 <h2>problemas</h2>
 <h3>O jogo não da empate</h3>
-<h3>    quando você ter empate não da para continuar, você tem que reiniciar a pagina se quiser continuar a jogar.</h3>
+<h3>    quando dér empate não da para continuar, você tem que reiniciar a pagina se quiser continuar a jogar.</h3>
