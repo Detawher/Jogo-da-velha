@@ -1,0 +1,53 @@
+body {
+  background-color: #ceedec;
+}
+
+#mostrador {
+  margin: auto;
+  margin-top: 40px;
+  width: 252px;
+  height: 80px;
+}
+
+.espaco {
+  width: 80px;
+  height: 60px;
+  border: 2px solid #000000;
+  float: left;
+  text-aling: center;
+  padding-top: 20px;
+  background-color: #32c9c4;
+}
+
+.tabuleiro {
+  width: 252px;
+  margin: auto;
+}
+
+img {
+  width: 50px;
+  border: 0px;
+  text-aling: center;
+  padding-left: 15px;
+  background-color: #32c9c4;
+}
+
+.vez {
+  text-size: 20px;
+  background-color: #32c9c4;
+}
+
+button {
+  padding: 0.8rem 1.5rem;
+  margin: 1rem 0;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+  align-items: center;
+}
+
+.placar {
+  color: black;
+  font-size: 30px;
+  padding-left: 15px;
+}

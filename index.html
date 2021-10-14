@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - jogo da velha</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<head>
+  <title>Jogo da velha</title>
+</head>
+
+<body>
+  <div id="mostrador">
+    <p style="float: left; margin-right: 10px; font-size: 25px;" class="vez">Vez do jogador:</p>
+    <img src="" border="0" height="50">
+  </div>
+  <div id="tabuleiro" class="tabuleiro">
+    <div id="a1" class="espaco" jogada=""></div>
+    <div id="a2" class="espaco" jogada=""></div>
+    <div id="a3" class="espaco" jogada=""></div>
+
+    <div id="b1" class="espaco" jogada=""></div>
+    <div id="b2" class="espaco" jogada=""></div>
+    <div id="b3" class="espaco" jogada=""></div>
+
+    <div id="c1" class="espaco" jogada=""></div>
+    <div id="c2" class="espaco" jogada=""></div>
+    <div id="c3" class="espaco" jogada=""></div>
+  </div>
+  <div id="vencedorr" class="placar"></div>
+  <button type="button" id="btnProximaRodada" onclick="proximaRodada()" disabled="true">Proxima rodada</button>
+</body>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
